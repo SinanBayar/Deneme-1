@@ -10,3 +10,5 @@ Biraz da değişiklik yapalım.
 Böylece "pull" komutunu da denemiş oluruz.
 
 [lorem ipsum](http://google.com)
+fefaf
+awdfawf
